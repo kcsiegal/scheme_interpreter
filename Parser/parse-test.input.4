@@ -1,0 +1,4 @@
+(define nth
+  (lambda (lst n)
+    (if (= n 0) (car lst)
+        (nth (cdr lst) (- n 1))

@@ -1,0 +1,2 @@
+(define remove-mine
+ (lambda (s lst )(cond ((null? lst )' ())((equal? s (car lst ))(remove-mine s (cdr lst )))(else (cons (car lst )(remove-mine s (cdr lst )))))))

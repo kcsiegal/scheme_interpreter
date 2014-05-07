@@ -1,0 +1,16 @@
+( : open 
+ : symbol 
+( : open 
+° : symbol 
+( : open 
+° : symbol 
+quote : symbol 
+( : open 
+ : symbol 
+ : symbol 
+ : symbol 
+ : symbol 
+) : close 
+) : close 
+) : close 
+) : close 

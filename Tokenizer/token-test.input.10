@@ -1,0 +1,1 @@
+(car ( cdr ( cdr '(apple orange pear grapefruit))))
